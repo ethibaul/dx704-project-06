@@ -2,7 +2,9 @@ state	speed_discomfort	minimize_discomfort
 exposed-1	-0.0	-0.0
 exposed-2	-0.0	-0.0
 exposed-3	-0.0	-0.0
+next_state	-0.0	-0.0
+probability	-0.0	-0.0
 recovered	-0.0	-0.0
-symptoms-1	4.999999955776649	3.7499999590524524
-symptoms-2	9.999999911553298	7.499999918104905
-symptoms-3	4.999999955776649	3.7499999590524524
+symptoms-1	0.5	0.375
+symptoms-2	1.0	0.75
+symptoms-3	0.5	0.375
